@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AutoCamApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#FF64FFDA</item>
+        <item name="colorPrimaryVariant">#FF00BFA5</item>
+        <item name="colorOnPrimary">#FF000000</item>
+        <item name="android:windowBackground">#FF000000</item>
+        <item name="android:statusBarColor">#FF000000</item>
+    </style>
+</resources>
